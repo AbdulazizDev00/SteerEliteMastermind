@@ -54,5 +54,5 @@ If `-c` is not provided, the game generates a random code with 4 unique digits.
 ## 👨‍💻 Author
 
 Created by [Abdulaziz mohammed almutairi] for Steer Elite Internship Program (2025)  
-GitHub: [https://github.com/AbdulazizDev00/SteerEliteMastermind]
+GitHub: [ https://github.com/AbdulazizDev00/SteerEliteMastermind ]
 
